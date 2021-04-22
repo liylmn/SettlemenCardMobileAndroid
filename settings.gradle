@@ -1,0 +1,3 @@
+include ':medicalqrcodelibrary'
+include ':app'
+rootProject.name = "ScanQrCode"
