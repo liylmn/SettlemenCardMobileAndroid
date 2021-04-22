@@ -45,5 +45,5 @@ dependencies {
 //    compile(name:'SettlemenCardMobileANDROID', ext:'aar')
 //    api 'com.squareup.okhttp3:okhttp:3.4.1'
 //    api 'com.squareup.okhttp3:logging-interceptor:3.4.1'
-
+//    implementation 'com.github.liylmn:SettlemenCardMobileAndroid:v1.0.0'
 }
